@@ -2,8 +2,8 @@
 
 About
 
-This web page will be dedicated to list out all of my favorite food recepies from American food to Dominican food.
-Hope everyone can try out the recepies at home.
+This web page will be dedicated to list out all of my favorite food recipes from American food to Dominican food.
+Hope everyone can try out the recipes at home.
 
 
 Skills
